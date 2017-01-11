@@ -2,7 +2,8 @@
 body {
   font-family: Itim, sans-serif;
   padding-top: 50px;
-  background-color: #28587b; }
+  background-color: #28587b;
+}
 
 .profile {
   margin: auto;
@@ -10,79 +11,95 @@ body {
   margin-bottom: 30px;
   border-radius: 20px;
   max-width: 200px;
-  max-height: 200px; }
+  max-height: 200px;
+}
 
 h1, h2, h3 {
-  text-align: center; }
+  text-align: center;
+}
 
 h1 {
   color: #dedbd2;
   font-size: 40px;
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 h2 {
-  color: #dedbd2; }
+  color: #dedbd2;
+}
 
 h3 {
   color: #dedbd2;
-  font-size: 30px; }
+  font-size: 30px;
+}
 
 a:link, a:visited {
-  color: #b0c4b1; }
+  color: #b0c4b1;
+}
 
 a:hover, a:active {
   text-decoration: none;
-  color: #f7e1d7; }
+  color: #f7e1d7;
+}
 
 .navbar {
-  margin-top: 20px; }
+  margin-top: 20px;
+}
 
 ul {
   border: 2px solid #dedbd2;
   border-radius: 60px;
   list-style-type: none;
   overflow: hidden;
-  background-color: #28587b; }
+  background-color: #28587b;
+}
 
 li {
-  float: left; }
+  float: left;
+}
 
 li a {
   display: block;
   color: #b0c4b1;
-  padding: 14px 16px; }
+  padding: 14px 16px;
+}
 
 li a:hover {
-  background-color: #28587b; }
+  background-color: #28587b;
+}
 
 p, li {
   color: #28587b;
   font-size: 20px;
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 .bio {
   padding: 20px;
   border-radius: 25px;
   margin: 20px;
-  background: #dedbd2; }
+  background: #dedbd2;
+}
 
 button {
   background: #28587b;
   border-radius: 60px;
-  border: 2px solid #dedbd2; }
+  border: 2px solid #dedbd2;
+}
 
 .social {
   font-size: 50px;
-  text-align: center; }
+  text-align: center;
+}
 
 .project {
   background: #b0c4b1;
   border: 8px solid #b0c4b1;
   border-radius: 10px;
-  margin: 20px 10px 20px 0px; }
+  margin: 20px 10px 20px 0px;
+}
 
 .portfolio p {
   text-align: center;
-  color: #28587b; }
-
-/*# sourceMappingURL=portfolio.css.map */
+  color: #28587b;
+}
